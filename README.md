@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Héctor</h1>
 <h3 align="center">A passionate Data Analyst and Python Developer</h3>
 
-- 🌱 I’m currently learning **Pandas, Numpy, Matplotlib, Seaborn**
+- 🌱 I'm a passionate Python enthusiast and Investor. 
 
-- 📝 I regularly write articles on [https://hectorschwarz.blogspot.com/](https://hectorschwarz.blogspot.com/)
+- 📝 I am currently working in Data Engineering. 
 
-- 📫 How to reach me **hschwarzinv@gmail.com**
-
-- ⚡ Fun fact **I own a site with information about stock markets, companies and dividends, with visitors mainly from the United States, Argentina, Germany, Canada, France and Netherlands. The reports are mostly focused in the Financial Sector.**
+- ⚡ Fun fact: my favourite Python libraries are **Pandas, Numpy, Matplotlib, Seaborn, Plotly and PySpark, among others**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
