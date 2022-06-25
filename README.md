@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Héctor</h1>
-<h3 align="center">A passionate Data Analyst and Python Developer</h3>
 
 - 🌱 I'm a passionate Python enthusiast and Investor. 
 
