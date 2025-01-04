@@ -2,9 +2,9 @@
 
 - 🌱 I'm a passionate Python enthusiast and Investor. 
 
-- 📝 I am currently working in Data Engineering. 
+- 📝 I am currently working in Generative AI. 
 
-- ⚡ Fun fact: my favourite Python libraries are **Pandas, Numpy, Matplotlib, Seaborn, Plotly and PySpark, among others**.
+- ⚡ Fun fact: my favourite Python libraries are **Pandas, Langchain, scikit-learn, Numpy, Matplotlib, Seaborn, Plotly and PySpark, among others**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
