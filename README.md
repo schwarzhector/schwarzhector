@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Héctor</h1>
 
-- 🌱 I'm a passionate Python enthusiast and Investor. 
+I’m driven by challenges where data takes center stage. I enjoy creating insightful dashboards, designing efficient pipelines, and exploring AI solutions. My diverse background, self-taught mindset, and constant passion for building with Python define my approach.
 
-- 📝 I am currently working in Generative AI. 
-
-- ⚡ Fun fact: my favourite Python libraries are **pandas, Langchain, scikit-learn, Numpy, Matplotlib, Seaborn, Plotly and PySpark, among others**.
+- ⚡ Fun fact: I have a YouTube channel where I upload videos about Python — <a href="https://www.youtube.com/@pythonconhectorschwarz" target="_blank">@pythonconhectorschwarz</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
