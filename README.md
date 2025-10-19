@@ -1,13 +1,36 @@
-<h1 align="center">Hi 👋, I'm Héctor</h1>
+<h1 align="center">Hi 👋, Soy Héctor</h1>
 
-I’m driven by challenges where data takes center stage. I enjoy creating insightful dashboards, designing efficient pipelines, and exploring AI solutions. My diverse background, self-taught mindset, and constant passion for building with Python define my approach.
+Soy un apasionado de **Python**, la **Ciencia de Datos**, la **Inteligencia Artificial** y los **Mercados Bursátiles**.  
+En este canal busco compartir distintos temas sobre Python, que he aprendido —y sigo aprendiendo— constantemente.
 
-- ⚡ Fun fact: I have a YouTube channel where I upload videos about Python — <a href="https://www.youtube.com/@pythonconhectorschwarz" target="_blank">@pythonconhectorschwarz</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/schwarz-hector" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="schwarz-hector" height="30" width="40" /></a>
-</p>
+## 🧠 Sobre mi trabajo  
+A lo largo de mi carrera he trabajado con distintas tecnologías, entre las que se destacan:  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 🐍 **Python** (pandas, NumPy, scikit-learn)  
+- ☁️ **Google Cloud Platform (GCP)**  
+- 🧩 **Apache Airflow**  
+- 📊 **Looker**  
+- 🐧 **Linux**  
+
+Me motiva resolver problemas reales con datos y compartir el proceso de aprendizaje con la comunidad.
+
+---
+
+## 🎥 Licencia del contenido  
+Todos los videos de mi canal de YouTube están publicados bajo la licencia **Creative Commons Attribution 4.0 (CC BY 4.0)**.  
+Podés compartirlos, adaptarlos y usarlos libremente, siempre que otorgues crédito a:  
+📺 **Python con Héctor Schwarz (@pythonconhectorschwarz)**  
+
+🔗 Más información:  
+- [Licencia Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+---
+
+## 💻 Licencia del código  
+Todos mis códios en este repo están licenciados bajo **GNU General Public License v3 (GPLv3)**.  
+Podés descargarlo desde mi repositorio en GitHub:  
+➡️ [https://github.com/schwarzhector/](https://github.com/schwarzhector/)
+
+🔗 Más información:  
+- [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.html)
